@@ -21,3 +21,24 @@
 // (Check decimal.ts file to learn how to make it)
 
 // 18 6 21 44 27 6 60
+
+// Now that you have your six digits binaries converted to decimal
+// It's time to transform then in a Base64 Encoding Table Char
+
+// SGVsbG8
+
+// Now you have the "Hello" word converted into base64
+
+// The process
+
+// Collect the word (Hello)
+// ||
+//  ===> Tranform each character into binary
+// ||
+//  ====> Probably from that you will take 8 digits binaries
+//        So you'll need to convert then into 6 digits binaries
+// ||
+//  =======> From that convert then into decimal
+// ||
+//   =========> From decimals get each char that correponds to it's value
+//              Present into the base64 encoding table
