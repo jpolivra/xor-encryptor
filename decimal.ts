@@ -4,14 +4,14 @@
 // Imagine the following five bits binary:
 // 1   0   1   1    0
 // Now lets count from the right to the left
-// We're gonna start with 1 and them double
+// We're going to start with 1 and them double
 // Like this:
 
 // 1   0   1   1   0
 // |   |   |   |   |
 // 16   8   4   2   1
 
-// Now we're gonna add the numbers where
+// Now we're going to add the numbers where
 // we have 1 (that means true).
 
 // 1   0   1   1   0
