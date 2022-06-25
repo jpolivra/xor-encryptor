@@ -1,0 +1,19 @@
+{
+  "name": "xor-encryptor",
+  "version": "1.0.0",
+  "description": "Base numbers conversion, encrypt and decrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thxjao/xor-encryptor.git"
+  },
+  "author": "Joao Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thxjao/xor-encryptor/issues"
+  },
+  "homepage": "https://github.com/thxjao/xor-encryptor#readme"
+}
