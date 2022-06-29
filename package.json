@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thxjao/xor-encryptor/issues"
   },
-  "homepage": "https://github.com/thxjao/xor-encryptor#readme"
+  "homepage": "https://github.com/thxjao/xor-encryptor#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
